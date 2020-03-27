@@ -10,4 +10,4 @@ exemple : "https://logo.clearbit.com/segment.com"
 
 Test unit with double Fake.
 
-![Simulator Screen Shot - iPhone 11 Pro Max - 2020-03-27 at 12 13 15](https://user-images.githubusercontent.com/39524369/77750622-65f65f00-7024-11ea-8afb-a70d69d15739.png)
+<img width="343" alt="Capture d’écran 2020-03-27 à 12 15 47" src="https://user-images.githubusercontent.com/39524369/77750830-c7b6c900-7024-11ea-9abf-d817d2137952.png">
